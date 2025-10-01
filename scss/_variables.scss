@@ -1,32 +1,28 @@
 // Font Familys
-$fontFRob:"Roboto", sans-serif;
-$fontCadCur:"Cedarville Cursive", cursive;
-$fontTriBg:"Tiro Bangla", serif; 
-$fontAneBg:"Anek Bangla", sans-serif;
-$fontAlSans:"Alan Sans", sans-serif;
-$fontOpenSans:"Open Sans", sans-serif;
-$fontMewScript:"Meow Script", cursive;
-$fontPaciCursiv:"Pacifico", cursive;
+$fontFRob: "Roboto", sans-serif;
+$fontCadCur: "Cedarville Cursive", cursive;
+$fontTriBg: "Tiro Bangla", serif;
+$fontAneBg: "Anek Bangla", sans-serif;
+$fontAlSans: "Alan Sans", sans-serif;
+$fontOpenSans: "Open Sans", sans-serif;
+$fontMewScript: "Meow Script", cursive;
+$fontPaciCursiv: "Pacifico", cursive;
 
 // Defult Font Weights
-$wghtSM:400;
-$wghtMD:500;
-$wghtLG:800;
+$wghtSM: 400;
+$wghtMD: 500;
+$wghtLG: 800;
 
-$wght600:600;
-$wght700:700;
-$wght900:900;
+$wght600: 600;
+$wght700: 700;
+$wght900: 900;
 
-// Defult Colors
-$primaryColor:#192a56;
-$bgColor:#273c75;
-$h1Color:#718093;
-$h2Color:#40739e;
-$h3Color:#dcdde1;
-$h4Color:#8c7ae6;
-$pColor:#4cd137;
-// Defult Font Sizes
+//
+// Defult Colors for
+//
+$pColor1RD: #e84118;
+$pColor1BL: #06080a;
 
-// Defult Paddings
-
-// Defult Margins
+// For hovers
+$pColor2RD: #e84118;
+$pColor2BL: #06080a;

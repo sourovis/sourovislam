@@ -5,6 +5,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: $pColor1BL;
  
 }
 img {
@@ -23,10 +24,4 @@ ul {
 }
 .mangin-padding {
   padding: 3rem 0;
-}
-.light-mode {
-  background: $h1Color;
-}
-.dark-mode {
-  background: black;
 }
